@@ -7,5 +7,6 @@ Tech Stack:
 4. Databse - MySQL
 5. Deployment - CI/CD pipeline, AWS
 
+Resources:
 1. INFO-NAVIGATE_User_Interface.png - This illustrates the user interface of the tool with main features
 2. INFO-NAVIGATE_Introduction.mp4 - This video provides an introduction to the tool and it's features
